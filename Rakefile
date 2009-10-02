@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "concerned_with"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Rails gem to separate model concerns into multiple files.}
+    gem.description = %Q{Rails gem to separate model concerns into multiple files.}
     gem.email = "stephan.kaag@gmail.com"
     gem.homepage = "http://github.com/stephankaag/concerned_with"
     gem.authors = ["Stephan Kaag"]
